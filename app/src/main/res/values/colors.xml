@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#FFFADD</color>
+    <color name="bg2">#FFD5D1</color>
+    <color name="bg3">#C9C4FF</color>
+    <color name="botao">#8ECDDD</color>
+    <color name="titulo">#22668D</color>
+    <color name="quadrado">#FFCC70</color>
+</resources>
