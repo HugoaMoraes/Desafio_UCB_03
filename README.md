@@ -40,8 +40,8 @@ Usando o conceito do MATERIAL DESIGN e RECYCLE VIEW, projeto consiste na criaç�
 | Cor BG 1       | ![#C9C4FF](https://via.placeholder.com/10/C9C4FF?text=+) #C9C4FF |
 | Cor BG 2       | ![#FFD5D1](https://via.placeholder.com/10/FFD5D1?text=+) #FFD5D1 |
 | Cor BG 3       | ![#FFFADD](https://via.placeholder.com/10/FFFADD?text=+) #FFFADD |
-| Cor Botões     | ![#8ECDDD](https://via.placeholder.com/10/8ECDDD?text=+) #8ECDDD |
-| Cor Text       | ![#22668D](https://via.placeholder.com/10/22668D?text=+) #22668D |
+| Cor Botões     | ![#8ECDDD](https://via.placeholder.com/10/8ecddd?text=+) #8ECDDD |
+| Cor Text       | ![#22668D](https://via.placeholder.com/10/22668d?text=+) #22668D |
 | Cor Retângulo  | ![#FFCC70](https://via.placeholder.com/10/FFCC70?text=+) #FFCC70 |
 
 ## Screenshots
